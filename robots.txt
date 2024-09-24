@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cousbye.github.io/sitemap.html.gz
+Sitemap: https://cousbye.github.io/app/sitemap.html.gz
+Sitemap: https://cousbye.github.io/assets/sitemap.html.gz
+Sitemap: https://cousbye.github.io/css/sitemap.html.gz
+Sitemap: https://cousbye.github.io/data/sitemap.html.gz
+Sitemap: https://cousbye.github.io/includes/sitemap.html.gz
+Sitemap: https://cousbye.github.io/item/sitemap.html.gz
+Sitemap: https://cousbye.github.io/src/sitemap.html.gz
